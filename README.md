@@ -1,5 +1,4 @@
 # kawanquestao05
-Kawanquestao05
 #include <stdlib.h>  
 #include <locale.h>
  
